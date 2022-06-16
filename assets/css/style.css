@@ -1445,6 +1445,9 @@ span.feature-review {
     .padding-left{
         padding-left: 16px ;
     }
+    .wrap-sticky nav.navbar.bootsnav.sticked ul.nav > li > a{
+        padding: 10px 25px;
+    }
 
 }
 
