@@ -79,7 +79,7 @@
     }
 
     nav.navbar.bootsnav ul.nav > li > a {
-        padding: 15px 0px;
+        padding: 15px !important;
         border: transparent;
     }
 
@@ -120,7 +120,7 @@
 
     .single-feature, .single-blog, .single-new-arrival {
         /*max-width: 270px;*/
-        margin: 10px auto;
+        margin: 30px auto;
     }
 
     .single-populer-products {
